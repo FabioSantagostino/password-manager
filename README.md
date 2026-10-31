@@ -19,10 +19,10 @@ Non utilizzare con password reali.
 
 Dalla cartella del progetto:
 
-​```
+```powershell
 mvn compile
-java -cp target/classes it.portfolio.passwordmanager.Main
-​```
+java -cp target/classes io.github.fabiosanta.passwordmanager.Main
+```
 
 ## Funzionalità previste
 
