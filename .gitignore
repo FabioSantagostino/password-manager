@@ -1,0 +1,7 @@
+# File generati dalla compilazione
+*.class
+target/
+
+# Dati locali e segreti: non pubblicarli
+.env
+local-data/
