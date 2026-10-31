@@ -13,14 +13,15 @@ Non utilizzare con password reali.
 ## Requisiti
 
 - JDK 25
+- Maven
 
 ## Come eseguire
 
 Dalla cartella del progetto:
 
-​```sh
-javac Main.java
-java Main
+​```
+mvn compile
+java -cp target/classes it.portfolio.passwordmanager.Main
 ​```
 
 ## Funzionalità previste
